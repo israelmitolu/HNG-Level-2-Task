@@ -8,4 +8,4 @@ This is a simple portfolio website made with HTML,SCSS, and JS.
 
 #### Live Demo - [Minimal portfolio](https://israelmitolu-hng-portfolio.netlify.app)
    
-![Resume](https://github.com/israelmitolu/HNG-Level-2-Task/assets/img/Capture.png)
+![Resume](https://github.com/israelmitolu/HNG-Level-2-Task/blob/main/assets/img/Capture.PNG)
