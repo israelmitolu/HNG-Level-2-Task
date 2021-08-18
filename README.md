@@ -4,3 +4,8 @@
 
 This is a simple portfolio website made with HTML,SCSS, and JS.
 
+<hr />
+
+#### Live Demo - [Abisalde CV](https://abisalde-resume-hng.netlify.app)
+   
+![Resume](/assets/img/Capture.png)
