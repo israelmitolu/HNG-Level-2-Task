@@ -6,6 +6,6 @@ This is a simple portfolio website made with HTML,SCSS, and JS.
 
 <hr />
 
-#### Live Demo - [Minimal portfolio](https://israelmitolu-resume-hng.netlify.app)
+#### Live Demo - [Minimal portfolio](https://israelmitolu-hng-portfolio.netlify.app)
    
-![Resume](/assets/img/Capture.png)
+![Resume](https://github.com/israelmitolu/assets/img/Capture.png)
